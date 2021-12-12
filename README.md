@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuscasD
 - 👀 I’m interested in games and learning.
 - 🌱 I’m currently learning about Art and C# 
-- 📫 How to reach me lucasrsbrito@gmail.com  //   https://www.artstation.com/artwork/kDW3gd
+- 📫 How to reach me lucasrsbrito@gmail.com  //   https://lukstoothemoon.itch.io
 
 
 <!---
