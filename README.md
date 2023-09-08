@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuscasD
-- 👀 I’m interested in games and learning.
-- 🌱 I’m currently learning about Java and C# 
-- 📫 How to reach me lucasrsbrito@gmail.com  //   https://lukstoothemoon.itch.io
+- This is my first game
+- a very simple 2D plataformer
 
 
 <!---
