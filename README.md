@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @LuscasD
-- This is my first game
-- a very simple 2D plataformer
 
 
 <!---
